@@ -1,0 +1,5 @@
+Minerva.Client/obj/
+Minerva.Client/bin/
+Minerva.Server/obj/
+Minerva.Server/bin/
+*.suo
